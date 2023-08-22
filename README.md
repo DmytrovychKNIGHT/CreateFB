@@ -1,4 +1,4 @@
-### CreateFB
+***script to create multiple accounts with termux***
 ***install scripts in termux***
 ```python
 pkg update && pkg upgrade -y
